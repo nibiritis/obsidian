@@ -27,13 +27,13 @@ obsidian/ ├── .obsidian/ ├── Configs ~ for my DE.md ├── Eww - 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/nibiritis/obsidian.git
+    cd ~/Documents
+    git clone https://github.com/nibiritis/obsidian.git
 
-    '''
-2. Open in Obsidian:
+3. Open in Obsidian:
      - Launch Obsidian.
      - Add the cloned folder as a vault.
-3. Explore and Customize:
+4. Explore and Customize:
      - Browse through the notes.
      - Modify configurations to suit your setup.
 
